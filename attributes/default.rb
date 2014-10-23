@@ -1,4 +1,4 @@
-default['wkhtmltopdf']['version']     = '0.12.0'
+default['wkhtmltopdf']['version']     = '0.12.1'
 default['wkhtmltopdf']['build_sha']   = '03c001d'
 default['wkhtmltopdf']['install_dir'] = '/usr/local/bin'
 default['wkhtmltopdf']['lib_dir']     = ''
